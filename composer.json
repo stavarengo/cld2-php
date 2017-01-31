@@ -1,0 +1,19 @@
+{
+    "name": "stavarengo/cld2-php",
+    "description": "Source code of a free online tool to detect language. See it here: free-language-detector-online.stavarengo.com",
+    "type": "project",
+    "require": {
+        "theiconic/php-ga-measurement-protocol": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Stavarengo",
+            "email": "faelsta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Sta\\Cld2Php\\": "src/Cld2Php/"
+        }
+    }
+}
