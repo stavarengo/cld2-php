@@ -1,5 +1,5 @@
 # cld2-php
 
-Source code of the [free-language-detector-online.stavarengo.me].
+Source code of the [free-language-detection-service.stavarengo.me].
 
-[free-language-detector-online.stavarengo.me]: http://free-language-detector-online.stavarengo.me
+[free-language-detection-service.stavarengo.me]: https://free-language-detection-service.stavarengo.me
